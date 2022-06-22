@@ -1,6 +1,6 @@
 {
   "homepage": "http://aryan-sudo.github.io/Expense-tracker",
-  "name": "react-complete-guide",
+  "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
